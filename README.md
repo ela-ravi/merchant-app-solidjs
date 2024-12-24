@@ -33,13 +33,37 @@ Your app is ready to be deployed!
 
 You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
 
-
 ## Commands used in this project
+
 - npx degit solidjs/templates/js my-app
 - pnpm install
 - pnpm dev // Running application
 - pnpm install -D tailwindcss postcss autoprefixer
 - npx tailwindcss init
-- pnpm add @solidjs/router                        
+- pnpm add @solidjs/router
 - pnpm add -g json-server
 - json-server -w -p 4000 ./data/db.json // Starts json-server and Serves db.json via json-server on port 4000 and start watching for changes
+
+## To access from MAC
+
+## For Personal Mail
+
+### Prerequisite
+
+- git config user.email "elamurugan.ravikumar@gmail.com"
+- git config user.name "ela"
+  where ela is username (anything we wish). Also it can be github handle (ela-ravi)
+
+- git clone git@github-personal:ela-ravi/merchant-app-solidjs.git
+  where github-personal is what the alias of host name from /Users/elamuruganravikumar/.ssh/config
+
+## Similarly for office mail
+
+### Prerequisite
+
+- git config user.email "elamurugan.r@wbdcontractor.com"
+- git config user.name "elamurugan-r"
+  where elamurugan-r is github handle
+
+- git clone git@github-office:DNI-MERCURY/cd_concert_client_tve.git
+  where github-office is what the alias of host name from /Users/elamuruganravikumar/.ssh/config
