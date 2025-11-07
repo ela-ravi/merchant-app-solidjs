@@ -61,7 +61,7 @@ You can deploy the `dist` folder to any static host provider (netlify, surge, no
 
 ### Prerequisite
 
-- git config user.email "elamurugan.r@wbdcontractor.com"
+- git config user.email "elamurugan.ravikumar@gmail.com"
 - git config user.name "elamurugan-r"
   where elamurugan-r is github handle
 
